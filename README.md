@@ -1,4 +1,4 @@
-# LinearRegressioninTensorflow2
+# Linear Regression in Tensorflow2
 Simple Linear Regression in tensorflow 2.3.0
 
 So what I did in the code ?
