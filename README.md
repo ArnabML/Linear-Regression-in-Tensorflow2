@@ -27,3 +27,7 @@ So I plotted / graphed the loss of training we got that from the history variabl
 So After that I made another column which is not visible in the data.csv file but exists which contains the name of the column is prediction and it contains the prediction data of the X training data column.
 
 So again I made the scatter of the training data but not of the prediction of the training data and the training data is our X and y columns of the data.csv file after that I made another plot inside that plot of the X training data and the prediction of the X training data and our Line and Regression is ready and also implemented in the data and after that I showed that plot and the scatter data is fitted in the evaluation and testing of the model in the real world data and it says that this data is suitable for Linear Regression because the Data is 98% fitted by the Regression Line.
+
+Hope It worked for you If it doesn't work then I recommend to install the latest version of tensorflow (2.3.0) and python 3.6.6 and if it throws error no such file or directory U also need the data.csv file for the code or it can't read the data or else you can contact me on asarkar310@gmail (my gmail).
+
+Have a good Day :D
