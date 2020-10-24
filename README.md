@@ -1,8 +1,7 @@
 # Linear Regression in Tensorflow2
 Simple Linear Regression in tensorflow 2.3.0
 
-So what I did in the code ?
-
+Steps I followed ->
 
 First I imported all the modules I needed for this and ignored the warnings using import warnings; warnings.filterwarnings('ignore') because I don't have CUDA set up in my windows machine 
 
